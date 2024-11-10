@@ -39,7 +39,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 
-<div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
 
 <p>
@@ -59,7 +58,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   />
 
 </p>
-</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
